@@ -13,7 +13,4 @@ def dividir(a, b):
     return a / b
 
 def operacion_innecesaria(x):
-    if x > 0:
-        return True
-    else:
-        return True
+    return True
